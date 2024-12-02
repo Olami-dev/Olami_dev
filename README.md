@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Olami0907
-- 👀 I’m interested in web development
+- 👀 I’m interested in web development and Database Administration
 - 🌱 I’m currently learning HTML, CSS, JS, PHP, SQL.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on a database project.
 - 📫 How to reach me: olanipekunolamilekan09009@gmail.com
 - 😄 Pronouns: MR/HIM/HE
 - ⚡ Fun fact: ...
