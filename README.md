@@ -1,12 +1,16 @@
-- 👋 Hi, I’m @Olami0907
-- 👀 I’m interested in web development and Database Administration
-- 🌱 I’m currently learning HTML, CSS, JS, PHP, SQL.
-- 💞️ I’m looking to collaborate on a database project.
-- 📫 How to reach me: olanipekunolamilekan09009@gmail.com
-- 😄 Pronouns: MR/HIM/HE
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm Olamilekan
 
-<!---
-Olami0907/Olami0907 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a beginner full-stack developer currently learning how to design and build websites from scratch.
+
+## 🧠 What I'm Learning
+- UI/UX Design using *Figma*
+- Frontend with *React* and *Next.js App Router*
+- Backend with *C# gRPC*
+- Serverless logic using *Edge Functions*
+
+## 🎯 Goal
+To understand full-stack development deeply and build projects that solve real problems in the future.
+
+## 🔗 Let's Connect
+- [LinkedIn](https://www.instagram.com/olami_0907?igsh=MWt0cm01N3V4N3VvMw==)
+- [Instagram](https://www.linkedin.com/in/olamilekan-olanipekun-19b169312)
