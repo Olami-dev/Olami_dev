@@ -5,7 +5,6 @@ I'm a beginner full-stack developer currently learning how to design and build w
 ## 🧠 What I'm Learning
 - UI/UX Design using *Figma*
 - Frontend with *React* and *Next.js App Router*
-- Backend with *C# gRPC*
 - Serverless logic using *Edge Functions*
 
 ## 🎯 Goal
