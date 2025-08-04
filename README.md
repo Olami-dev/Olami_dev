@@ -65,75 +65,122 @@ export default tseslint.config([
 ])
 ```
 
-🚦 Getting Started
-Prerequisites
+Here’s your full **README.md** content, written in markdown format and ready to paste into your repository:
 
-Node.js (v16 or higher)
-npm or yarn
-Git
+````markdown
+# 🚀 vtu9ja-web
 
-Installation
+VTU9ja Web App - A virtual top-up platform frontend built with modern web technologies.
 
-Clone the repository
-bashgit clone https://github.com/YOUR_USERNAME/vtu9ja-web.git
+---
+
+## 🚦 Getting Started
+
+### Prerequisites
+
+- [Node.js](https://nodejs.org/) (v16 or higher)
+- npm or yarn
+- Git
+
+---
+
+### 🔧 Installation
+
+**Clone the repository**
+```bash
+git clone https://github.com/YOUR_USERNAME/vtu9ja-web.git
 cd vtu9ja-web
+````
 
-Install dependencies
-bashnpm install
+**Install dependencies**
 
-Start development server
-bashnpm run dev
+```bash
+npm install
+```
 
-Open your browser
-Navigate to http://localhost:5173
+**Start development server**
 
-🔄 Development Workflow
-Branch Strategy
+```bash
+npm run dev
+```
 
-main - Production-ready code
-develop - Integration branch
-feature/* - New features
-fix/* - Bug fixes
-docs/* - Documentation updates
+**Open your browser**
 
-Contributing Process
+Navigate to: [http://localhost:5173](http://localhost:5173)
 
-Create a feature branch
-bashgit checkout -b feature/your-feature-name
+---
 
-Make your changes
+## 🔄 Development Workflow
 
-Write clean, well-documented code
-Follow the established coding standards
-Add tests for new features
+### Branch Strategy
 
+* `main` – Production-ready code
+* `develop` – Integration branch
+* `feature/*` – New features
+* `fix/*` – Bug fixes
+* `docs/*` – Documentation updates
 
-Commit your changes
-bashgit add .
-git commit -m "feat: add user authentication system"
+---
 
-Push and create PR
-bashgit push origin feature/your-feature-name
-Then create a Pull Request on GitHub
+### Contributing Process
 
-Commit Message Convention
+1. **Create a feature branch**
 
-feat: - New features
-fix: - Bug fixes
-docs: - Documentation changes
-style: - Code style changes
-refactor: - Code refactoring
-test: - Adding tests
-chore: - Maintenance tasks
+   ```bash
+   git checkout -b feature/your-feature-name
+   ```
 
-📋 Available Scripts
-bashnpm run dev          # Start development server
-npm run build        # Build for production
-npm run preview      # Preview production build
-npm run lint         # Run ESLint
-npm run lint:fix     # Fix ESLint issues
-npm test             # Run tests
-🏗️ Project Structure
+2. **Make your changes**
+
+   * Write clean, well-documented code
+   * Follow the established coding standards
+   * Add tests for new features
+
+3. **Commit your changes**
+
+   ```bash
+   git add .
+   git commit -m "feat: add user authentication system"
+   ```
+
+4. **Push and create a PR**
+
+   ```bash
+   git push origin feature/your-feature-name
+   ```
+
+   Then, create a Pull Request on GitHub.
+
+---
+
+### ✅ Commit Message Convention
+
+* `feat:` – New features
+* `fix:` – Bug fixes
+* `docs:` – Documentation changes
+* `style:` – Code style changes
+* `refactor:` – Code refactoring
+* `test:` – Adding tests
+* `chore:` – Maintenance tasks
+
+---
+
+## 📋 Available Scripts
+
+```bash
+npm run dev        # Start development server
+npm run build      # Build for production
+npm run preview    # Preview production build
+npm run lint       # Run ESLint
+npm run lint:fix   # Fix ESLint issues
+npm test           # Run tests
+```
+
+---
+
+## 🏗️ Project Structure
+
+```
 vtu9ja-web/
 ├── public/          # Static assets
 ├── src/
@@ -146,18 +193,22 @@ vtu9ja-web/
 │   └── App.jsx      # Main app component
 ├── tests/           # Test files
 └── docs/            # Project documentation
-🤝 Contributing Guidelines
-
-Fork the repository and create your branch from develop
-Follow coding standards - consistent formatting and naming
-Write meaningful commit messages using our convention
-Add tests for new functionality
-Update documentation as needed
-Submit a Pull Request with a clear description
-      // other options...
-    },
-  },
-])
 ```
+
+---
+
+## 🤝 Contributing Guidelines
+
+* Fork the repository and create your branch from `develop`
+* Follow coding standards – consistent formatting and naming
+* Write meaningful commit messages using our convention
+* Add tests for new functionality
+* Update documentation as needed
+* Submit a Pull Request with a clear description
+
+---
+
+```
+
 
 
