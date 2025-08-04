@@ -65,7 +65,7 @@ export default tseslint.config([
 ])
 ```
 
-Here’s your full **README.md** content, written in markdown format and ready to paste into your repository:
+
 
 ````markdown
 # 🚀 vtu9ja-web
@@ -209,6 +209,7 @@ vtu9ja-web/
 ---
 
 ```
+
 
 
 
